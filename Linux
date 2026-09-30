@@ -20,3 +20,32 @@ This will show the files and directories in the current directory
 ```bash
 ls
 ```
+
+## Directories
+
+### cd
+
+To move fromone directory to other directory
+
+```bash
+cd
+```
+
+### Next command: `mkdir`
+
+```markdown
+## Create a Directory
+
+### mkdir
+
+This command is used to create a new directory.
+
+```bash
+mkdir directory_name
+
+
+**Example:**
+
+mkdir practice
+```
+
