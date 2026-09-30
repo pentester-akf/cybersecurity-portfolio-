@@ -11,7 +11,7 @@ pwd
 ```
 
 
-## List Fielsand Directories
+## List Fiels and Directories
 
 ### ls
 
@@ -25,10 +25,13 @@ ls
 
 ### cd
 
-To move fromone directory to other directory
+To move from one directory to other directory
 
 ```bash
 cd
+
+**Example**
+cd Downloads
 ```
 
 ### Next command: `mkdir`
