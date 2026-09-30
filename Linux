@@ -25,7 +25,7 @@ ls
 
 ### cd
 
-To move from one directory to other directory
+To move from one directory to another directory
 
 ```bash
 cd
