@@ -29,10 +29,11 @@ To move from one directory to another directory
 
 ```bash
 cd
-```
+
 
 **Example**
 cd Downloads
+```
 
 
 
@@ -44,10 +45,10 @@ This command is used to create a new directory.
 
 ```bash
 mkdir directory_name
-```
+
 
 **Example:**
 
 mkdir practice
-
+```
 
