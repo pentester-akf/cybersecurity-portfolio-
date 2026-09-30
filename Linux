@@ -1,1 +1,22 @@
+# Linux commands
 
+## Navigate to current directory
+
+### pwd
+
+This will show the current directory
+
+```bash
+pwd
+```
+
+
+## List
+
+### ls
+
+This will show the list of packges that are installed in the current folder
+
+```bash
+ls
+```
