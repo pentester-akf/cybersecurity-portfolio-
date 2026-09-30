@@ -11,11 +11,11 @@ pwd
 ```
 
 
-## List
+## List Fielsand Directories
 
 ### ls
 
-This will show the list of packges that are installed in the current folder
+This will show the files and directories in the current directory
 
 ```bash
 ls
